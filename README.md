@@ -23,7 +23,7 @@ A modern, interactive React weather dashboard that shows current weather, foreca
 
 ### 1. **Clone the repository**
 ```sh
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/yashkewte/Weather-App.git
 cd weather-app
 ```
 
