@@ -117,14 +117,3 @@ src/
 Pull requests are welcome! For major changes, please open an issue first.
 
 ---
-
-## 📄 License
-
-MIT
-
----
-
-## 📬 Feedback
-
-Found a bug or want a feature?  
-Open an [issue](https://github.com/your-username/weather-app/issues) or
